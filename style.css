@@ -12,7 +12,7 @@
   --secondary-shadow: #a17e69;
   --bottom-margin:0.5rem;
   --bottom-margin-2:1rem;
-  --line-height: 1.6rem;
+  --line-height: 1.7rem;
   --transition: 0.3s;
 }
 
@@ -81,7 +81,7 @@ nav ul li {
     align-items: center;
     justify-content: center;
     gap: 2rem;
-    max-width: 70rem;
+    max-width: 68.75rem;
     margin: auto;
 }
 .hero img {
@@ -113,13 +113,13 @@ nav ul li {
 }
 .more-about p {
     line-height: var(--line-height);
-    padding: 0.1rem;
+    padding: 0.4rem;
 }
 
 
 /* Skills */
 .skills {
-    max-width: 70rem;
+    max-width: 68.75rem;
     margin: auto;
     text-align: center;
     margin-top: 2.5rem ;
@@ -128,7 +128,7 @@ nav ul li {
     margin-bottom: 1rem;
 }
 .skills-wrapper img {
-    padding: 1rem;
+    padding: 1.25rem;
 }
 .icon {
     width: 12rem;
@@ -211,7 +211,7 @@ nav ul li {
 .contact-form-container .input-field {
     width: 100%;
     padding-top: 10px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     border-radius: 5px;
     border: none;
     border: 2px outset var(--primary-color);
